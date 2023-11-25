@@ -3,4 +3,4 @@
 	url = ./assignment4
 [submodule "assignment3"]
 	path = assignment3
-	url = ./assignment3
+	url = https://github.com/lianexu/ComputerGraphicsCloth
