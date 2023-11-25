@@ -1,6 +1,6 @@
 [submodule "assignment5"]
 	path = assignment5
-	url = ./assignment5
+	url = https://github.com/lianexu/ComputerGraphicsAssign5
 [submodule "assignment4"]
 	path = assignment4
 	url = https://github.com/lianexu/ComputerGraphicsAssign4
